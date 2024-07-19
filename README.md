@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Madheshiya</h1>
-<h3 align="center">Developer | Graphic Designer</h3>
+<h3 align="center">Associate System Engineer, IBM India Pvt Ltd</h3>
 
-- 🔭 I’m currently working on [Smart Attendance Application](N/A)
+- 🔭 I’m currently working on project tr.m.xa
 
-- 🌱 I’m currently learning **Full Stack Web Development & Flutter**
+- 🌱 I’m currently learning **System Design**
 
-- 💬 Ask me about **Java, HTML & CSS**
+- 💬 Ask me about **Programming, Cars, Anime, F1, MotoGP**
 
-- 📫 How to reach me **noxiousinfortknox@gmail.com**
+- 📫 How to reach me **Ashish.Madheshiya@ibm.com**
 
 - ⚡ Fun fact **I was supposed to be an eSports athlete.**
 
