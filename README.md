@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 💬 Ask me about **Programming, Cars, Anime, F1, MotoGP**
+- 💬 Ask me about **Programming, Cars, Anime, F1**
 
 - 📫 How to reach me **Ashish.Madheshiya@ibm.com**
 
