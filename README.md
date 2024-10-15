@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Ashish.Madheshiya@ibm.com**
 
-- ⚡ Fun fact **I was supposed to be an eSports athlete.**
+- ⚡ Fun fact **I was supposed to be an eSports player.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
