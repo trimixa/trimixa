@@ -31,6 +31,6 @@ I build and optimize large-scale ETL systems handling mission-critical financial
 ## Let's Connect
 - **LinkedIn:** [akmadheshiya](https://linkedin.com/in/akmadheshiya)
 - **LeetCode:** [trmxa](https://leetcode.com/trmxa)
-- **Email:** ashish.madheshiya@ibm.com
+- **Email:** ashishmadheshiyawork@gmail.com
 
 Open to SDE opportunities. Let's talk! 🚀
